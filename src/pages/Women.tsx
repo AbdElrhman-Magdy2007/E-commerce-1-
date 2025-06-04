@@ -19,7 +19,7 @@ const Women = () => {
       id: 1,
       name: "Cropped Hoodie",
       price: 75,
-      image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/a5/bc/e3/a5bce329d8124df43e17d02593ce12c4.jpg",
       category: "Cropped Hoodies",
       style: "Casual"
     },
@@ -27,7 +27,7 @@ const Women = () => {
       id: 2,
       name: "Oversized Tee",
       price: 45,
-      image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/474x/04/4b/e6/044be693ebeb0a766abf3fd9dc39c3cf.jpg",
       category: "T-Shirts",
       style: "Oversized"
     },
@@ -35,7 +35,7 @@ const Women = () => {
       id: 3,
       name: "Minimalist Hoodie",
       price: 85,
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/1200x/5f/3f/c2/5f3fc2e8f5f3b6106be2ac23708dfa86.jpg",
       category: "Cropped Hoodies",
       style: "Minimalist"
     },
@@ -43,7 +43,7 @@ const Women = () => {
       id: 4,
       name: "Statement Tee",
       price: 50,
-      image: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/7c/85/47/7c854782735a556a0eadad3b73fbe002.jpg",
       category: "T-Shirts",
       style: "Casual"
     },
@@ -51,7 +51,7 @@ const Women = () => {
       id: 5,
       name: "Designer Tote",
       price: 65,
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/22/61/62/226162acc13b44f0afcdeafd425260ba.jpg",
       category: "Accessories",
       style: "Minimalist"
     },
@@ -59,7 +59,7 @@ const Women = () => {
       id: 6,
       name: "Soft Hoodie",
       price: 80,
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/37/f8/7b/37f87b06fd5a7ee5de260f9798a6ead4.jpg",
       category: "Cropped Hoodies",
       style: "Oversized"
     }
@@ -77,7 +77,7 @@ const Women = () => {
             <h1 className="text-5xl font-bold mb-4">Women's Collection</h1>
             <p className="text-xl max-w-2xl">
               Elevate your everyday look with stylish, comfortable, and empowering pieces made for women. 
-              Find your next favorite hoodie, tee, or fullwear with a modern touch.
+              Find your next favorite CLOTHES, tee, or fullwear with a modern touch.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@ const Women = () => {
         <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-lg p-8 mb-12 text-center">
           <h2 className="text-3xl font-bold text-black mb-4">Seasonal Offers</h2>
           <p className="text-gray-600 mb-6">
-            Get 20% off on all cropped hoodies and oversized tees this month!
+            Get 20% off on all cropped CLOTHES and oversized tees this month!
           </p>
           <Button className="bg-black text-white px-8 py-3 rounded-none hover:bg-gray-800">
             Shop Seasonal Sale

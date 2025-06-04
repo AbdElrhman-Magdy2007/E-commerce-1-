@@ -15,7 +15,7 @@ const Footer = () => {
           {/* Left Side - Brand and Links */}
           <div className="space-y-8">
             <div>
-              <h2 className="text-4xl font-bold tracking-wider mb-4">HOODIE</h2>
+              <h2 className="text-4xl font-bold tracking-wider mb-4">CLOTHES</h2>
               <p className="text-gray-300 max-w-md">
                 Premium streetwear designed for the modern lifestyle. 
                 Quality craftsmanship meets contemporary style.
@@ -63,8 +63,8 @@ const Footer = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-lg aspect-[3/4] bg-gray-800">
               <img 
-                src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
-                alt="Featured Hoodie with Back Print"
+                src="https://i.pinimg.com/736x/a7/be/0f/a7be0f476324bbbd68b96ffc85539bdf.jpg"
+                alt="Featured CLOTHES with Back Print"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-black bg-opacity-20"></div>
@@ -79,7 +79,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 HOODIE. All rights reserved.
+            © 2025 CLOTHES. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors duration-200">

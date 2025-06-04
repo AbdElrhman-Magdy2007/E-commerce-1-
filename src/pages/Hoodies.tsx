@@ -20,7 +20,7 @@ const Hoodies = () => {
       id: 1,
       name: "Essential Black Hoodie",
       price: 89,
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/b1/01/90/b10190eaae4be5d8b74a7ded9645a741.jpg",
       tag: "Plain",
       fabric: "Cotton",
       fit: "Regular",
@@ -30,7 +30,7 @@ const Hoodies = () => {
       id: 2,
       name: "Zip-Up Urban Hoodie",
       price: 95,
-      image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/ce/b0/89/ceb0898ce401adeadf25348831bba92d.jpg",
       tag: "Zip-up",
       fabric: "Fleece",
       fit: "Oversized"
@@ -39,7 +39,7 @@ const Hoodies = () => {
       id: 3,
       name: "Graphic Print Hoodie",
       price: 92,
-      image: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/63/71/95/637195cba2e4e8bd44832a5c910a3852.jpg",
       tag: "Printed",
       fabric: "Cotton Blend",
       fit: "Regular",
@@ -49,7 +49,7 @@ const Hoodies = () => {
       id: 4,
       name: "Vintage Crew Hoodie",
       price: 75,
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/1200x/5f/3f/c2/5f3fc2e8f5f3b6106be2ac23708dfa86.jpg",
       tag: "Pullover",
       fabric: "French Terry",
       fit: "Regular"
@@ -58,7 +58,7 @@ const Hoodies = () => {
       id: 5,
       name: "Oversized Comfort Hoodie",
       price: 88,
-      image: "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/5f/f3/5f/5ff35ff4beceafd861abaedf7efa8f47.jpg",
       tag: "Plain",
       fabric: "Cotton",
       fit: "Oversized",
@@ -68,7 +68,7 @@ const Hoodies = () => {
       id: 6,
       name: "Classic Pullover",
       price: 82,
-      image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/db/30/7c/db307cff8bfa8953aa941495068f6c6a.jpg",
       tag: "Pullover",
       fabric: "Cotton Blend",
       fit: "Regular"
@@ -84,9 +84,9 @@ const Hoodies = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-black to-gray-800"></div>
         <div className="relative max-w-7xl mx-auto px-4 h-full flex items-center">
           <div className="text-white">
-            <h1 className="text-5xl font-bold mb-4">Hoodies</h1>
+            <h1 className="text-5xl font-bold mb-4">CLOTHES</h1>
             <p className="text-xl max-w-2xl">
-              Discover our signature hoodie collection – crafted for warmth, comfort, and attitude. 
+              Discover our signature CLOTHES collection – crafted for warmth, comfort, and attitude. 
               From minimalist cuts to bold prints, these pieces define contemporary streetwear.
             </p>
           </div>
@@ -198,10 +198,10 @@ const Hoodies = () => {
         <div className="text-center mt-16 p-8 bg-black text-white rounded-lg">
           <h2 className="text-3xl font-bold mb-4">Can't Find Your Style?</h2>
           <p className="text-gray-300 mb-6">
-            Explore our complete hoodie collection or get custom recommendations
+            Explore our complete CLOTHES collection or get custom recommendations
           </p>
-          <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
-            Browse All Hoodies
+          <Button variant="outline" className="border-white text-black hover:bg-white hover:text-black">
+            Browse All CLOTHES
           </Button>
         </div>
       </div>

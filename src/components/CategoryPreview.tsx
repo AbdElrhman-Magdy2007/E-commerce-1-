@@ -3,7 +3,7 @@ const CategoryPreview = () => {
   const categories = [
     {
       title: "Premium Hoodies",
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      image: "https://i.pinimg.com/1200x/03/e3/86/03e38651f7186adadca0cb95d350030a.jpg",
       description: "Comfort meets style"
     },
     {
@@ -19,6 +19,7 @@ const CategoryPreview = () => {
   ];
 
   return (
+
     <section className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-3 gap-8">

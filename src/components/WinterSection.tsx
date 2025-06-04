@@ -17,7 +17,7 @@ const WinterSection = () => {
           <div className="space-y-8">
             <div className="relative overflow-hidden rounded-lg aspect-square bg-gray-800">
               <img 
-                src="https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                src="https://i.pinimg.com/736x/14/24/96/14249653f3497e0b4d8b31967a5df342.jpg"
                 alt="Winter Hoodie"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
@@ -26,7 +26,7 @@ const WinterSection = () => {
             <div className="grid grid-cols-2 gap-6">
               <div className="relative overflow-hidden rounded-lg aspect-square bg-gray-800">
                 <img 
-                  src="https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80"
+                  src="https://i.pinimg.com/736x/83/95/38/8395381f9eecc157a057d90aa2e49594.jpg"
                   alt="Winter Sneakers"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                 />
@@ -50,7 +50,7 @@ const WinterSection = () => {
               <h4 className="text-xl text-gray-300 mb-6">WINTER IS COMING</h4>
               <p className="text-gray-300 leading-relaxed mb-8">
                 Prepare for the season with our premium winter collection. Each piece is carefully crafted 
-                to provide maximum warmth without compromising on style. From our signature hoodies to 
+                to provide maximum warmth without compromising on style. From our signature CLOTHES to 
                 essential accessories, we have everything you need to stay comfortable and fashionable 
                 throughout the winter months.
               </p>

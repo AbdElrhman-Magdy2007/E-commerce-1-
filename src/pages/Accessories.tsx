@@ -16,7 +16,7 @@ const Accessories = () => {
       id: 1,
       name: "Street Cap",
       price: 35,
-      image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/16/76/d7/1676d7201d8181a1c92acfd5515eca31.jpg",
       category: "Caps",
       color: "Black"
     },
@@ -24,7 +24,7 @@ const Accessories = () => {
       id: 2,
       name: "Designer Tote",
       price: 65,
-      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/22/61/62/226162acc13b44f0afcdeafd425260ba.jpg",
       category: "Tote Bags",
       color: "Black"
     },
@@ -32,7 +32,7 @@ const Accessories = () => {
       id: 3,
       name: "Winter Beanie",
       price: 25,
-      image: "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/7a/a2/7b/7aa27bed9316c753c56140d38c46bee9.jpg",
       category: "Beanies",
       color: "Gray"
     },
@@ -40,7 +40,7 @@ const Accessories = () => {
       id: 4,
       name: "Logo Cap",
       price: 42,
-      image: "https://images.unsplash.com/photo-1575428652377-a2d80772d0ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/e8/f7/e4/e8f7e477d0de8a136757dd1a33cce521.jpg",
       category: "Caps",
       color: "Navy"
     },
@@ -48,7 +48,7 @@ const Accessories = () => {
       id: 5,
       name: "Canvas Tote",
       price: 55,
-      image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/24/02/55/240255e6a21ee1e8b2643b7f13ae1ca0.jpg",
       category: "Tote Bags",
       color: "Olive"
     },
@@ -56,7 +56,7 @@ const Accessories = () => {
       id: 6,
       name: "Wool Beanie",
       price: 32,
-      image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/f6/76/98/f67698f4d61c16809a4b67604f6d71b4.jpg",
       category: "Beanies",
       color: "Brown"
     }
@@ -141,14 +141,14 @@ const Accessories = () => {
 
         {/* Call to Action */}
         <div className="text-center mt-20 p-12 bg-gradient-to-r from-gray-50 to-gray-100 rounded-lg">
-          <h2 className="text-4xl font-bold text-black mb-6">Pair with Your Favorite Hoodie</h2>
+          <h2 className="text-4xl font-bold text-black mb-6">Pair with Your Favorite CLOTHES</h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            These accessories are designed to complement our signature hoodies and tees. 
+            These accessories are designed to complement our signature CLOTHES and tees. 
             Create the perfect streetwear ensemble.
           </p>
           <div className="flex justify-center gap-4">
             <Button className="bg-black text-white px-8 py-3 rounded-none hover:bg-gray-800">
-              Shop Hoodies
+              Shop CLOTHES
             </Button>
             <Button variant="outline" className="border-black text-black px-8 py-3 rounded-none hover:bg-black hover:text-white">
               View Styling Guide

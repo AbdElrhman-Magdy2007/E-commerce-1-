@@ -5,37 +5,37 @@ const OurCollection = () => {
   const products = [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/13/16/9e/13169ec94fe06d5a9fd79fd414a0655f.jpg",
       title: "Essential Hoodie",
       price: "$89"
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/1200x/be/6f/a0/be6fa0bf95914f16e349ad77ef851743.jpg",
       title: "Vintage Crew",
       price: "$75"
     },
     {
       id: 3,
-      image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/b1/01/90/b10190eaae4be5d8b74a7ded9645a741.jpg",
       title: "Urban Zip-Up",
       price: "$95"
     },
     {
       id: 4,
-      image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/2b/42/4f/2b424f3a124d932c206194c3d9885c03.jpg",
       title: "Classic Black",
       price: "$82"
     },
     {
       id: 5,
-      image: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/45/48/e7/4548e760079de66994e1db9225904cd2.jpg",
       title: "Graphic Print",
       price: "$92"
     },
     {
       id: 6,
-      image: "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/85/27/fc/8527fc8ca46e9f8e1515b0fa97a89230.jpg",
       title: "Oversized Fit",
       price: "$88"
     }

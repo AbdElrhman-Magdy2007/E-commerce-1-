@@ -22,7 +22,7 @@ const Men = () => {
       id: 1,
       name: "Essential Hoodie",
       price: 89,
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/90/a2/cc/90a2cce4a4d7f5fdda436bdfe1bec336.jpg",
       category: "Hoodies",
       color: "Black"
     },
@@ -30,7 +30,7 @@ const Men = () => {
       id: 2,
       name: "Urban Zip-Up",
       price: 95,
-      image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/b1/01/90/b10190eaae4be5d8b74a7ded9645a741.jpg",
       category: "Hoodies",
       color: "Gray"
     },
@@ -38,7 +38,7 @@ const Men = () => {
       id: 3,
       name: "Graphic Print Tee",
       price: 45,
-      image: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/31/a8/6e/31a86ef15688e5a6829d88bf321785a1.jpg",
       category: "T-Shirts",
       color: "White"
     },
@@ -46,7 +46,7 @@ const Men = () => {
       id: 4,
       name: "Winter Joggers",
       price: 75,
-      image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/11/07/6b/11076b7205133d2c8059452f4d37dd37.jpg",
       category: "Winterwear",
       color: "Navy"
     },
@@ -54,7 +54,7 @@ const Men = () => {
       id: 5,
       name: "Oversized Hoodie",
       price: 85,
-      image: "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/ec/48/7e/ec487ec339cacc808f02b7ec830ab2c7.jpg",
       category: "Hoodies",
       color: "Brown"
     },
@@ -62,7 +62,7 @@ const Men = () => {
       id: 6,
       name: "Basic Tee",
       price: 35,
-      image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/0e/5e/89/0e5e89e31b2cf9e41b0d14eea69053a6.jpg",
       category: "T-Shirts",
       color: "Black"
     }
@@ -79,7 +79,7 @@ const Men = () => {
           <div className="text-white">
             <h1 className="text-5xl font-bold mb-4">Men's Collection</h1>
             <p className="text-xl max-w-2xl">
-              Explore bold, modern streetwear designed for him. From oversized hoodies to graphic tees, 
+              Explore bold, modern streetwear designed for him. From oversized CLOTHES to graphic tees, 
               our men's collection is built for confidence and comfort — anytime, anywhere.
             </p>
           </div>

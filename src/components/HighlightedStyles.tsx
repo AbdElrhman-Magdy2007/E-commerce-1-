@@ -8,7 +8,7 @@ const HighlightedStyles = () => {
           <div className="relative group cursor-pointer">
             <div className="relative overflow-hidden rounded-lg aspect-[4/5] bg-gray-100">
               <img 
-                src="https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                src="https://i.pinimg.com/736x/57/6e/ef/576eefe23318e35580853471036bbc8d.jpg"
                 alt="Premium Sweatshirt"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
@@ -35,7 +35,7 @@ const HighlightedStyles = () => {
           <div className="relative group cursor-pointer">
             <div className="relative overflow-hidden rounded-lg aspect-[4/5] bg-gray-900">
               <img 
-                src="https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                src="https://i.pinimg.com/736x/54/1d/c2/541dc2ed7e5a8845b01a86c2738dd870.jpg"
                 alt="Athletic Hoodie"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />

@@ -49,7 +49,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="bg-gray-200 rounded-lg overflow-hidden aspect-[4/5]">
               <img 
-                src="/lovable-uploads/607b276b-b180-4e8c-b103-6ce626e6257e.png"
+                src="https://i.pinimg.com/736x/83/f9/25/83f9259a75d6fc0229107a9ca34dc5af.jpg"
                 alt="Three people wearing stylish hoodies"
                 className="w-full h-full object-cover"
               />

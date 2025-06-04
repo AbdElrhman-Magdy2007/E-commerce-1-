@@ -18,7 +18,7 @@ const TShirts = () => {
       id: 1,
       name: "Classic White Tee",
       price: 35,
-      image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/3b/31/30/3b31303326c652b6423885f7db1a72f9.jpg",
       type: "Basic",
       recommended: "Perfect for layering under hoodies"
     },
@@ -26,7 +26,7 @@ const TShirts = () => {
       id: 2,
       name: "Graphic Print Tee",
       price: 45,
-      image: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/31/a8/6e/31a86ef15688e5a6829d88bf321785a1.jpg",
       type: "Printed",
       recommended: "Great for making a statement"
     },
@@ -34,7 +34,7 @@ const TShirts = () => {
       id: 3,
       name: "Oversized Black Tee",
       price: 42,
-      image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/73/08/7e/73087e412053e7b96583ca004547fe08.jpg",
       type: "Oversized",
       recommended: "Ideal for relaxed streetwear looks"
     },
@@ -42,7 +42,7 @@ const TShirts = () => {
       id: 4,
       name: "Vintage Band Tee",
       price: 50,
-      image: "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/94/86/63/94866314800f7a9ff2f10e5c5b355804.jpg",
       type: "Printed",
       recommended: "Authentic vintage vibe"
     },
@@ -50,7 +50,7 @@ const TShirts = () => {
       id: 5,
       name: "Basic Gray Tee",
       price: 38,
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/1200x/5f/3f/c2/5f3fc2e8f5f3b6106be2ac23708dfa86.jpg",
       type: "Basic",
       recommended: "Versatile everyday essential"
     },
@@ -58,7 +58,7 @@ const TShirts = () => {
       id: 6,
       name: "Oversized Logo Tee",
       price: 48,
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/f1/8c/28/f18c280391689254a03fc7e5445cf788.jpg",
       type: "Oversized",
       recommended: "Bold branding for confident style"
     }
@@ -131,7 +131,7 @@ const TShirts = () => {
           <div className="grid md:grid-cols-3 gap-6 text-sm">
             <div>
               <h3 className="font-semibold mb-2">Layering</h3>
-              <p className="text-gray-600">Perfect base layer under hoodies, jackets, or cardigans</p>
+              <p className="text-gray-600">Perfect base layer under CLOTHES, jackets, or cardigans</p>
             </div>
             <div>
               <h3 className="font-semibold mb-2">Solo Statement</h3>
@@ -187,16 +187,16 @@ const TShirts = () => {
               <p className="text-gray-300 mb-4">
                 Basic tees are perfect for everyday comfort. Pair with jeans, joggers, or shorts for effortless style.
               </p>
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
+              <Button variant="outline" className="border-white text-black hover:bg-white hover:text-black">
                 Shop Basics
               </Button>
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-4">Layering Expert</h3>
               <p className="text-gray-300 mb-4">
-                Use our tees as base layers under hoodies and jackets. Mix and match for creative layered looks.
+                Use our tees as base layers under CLOTHES and jackets. Mix and match for creative layered looks.
               </p>
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-black">
+              <Button variant="outline" className="border-white text-black hover:bg-white hover:text-black">
                 Layering Guide
               </Button>
             </div>

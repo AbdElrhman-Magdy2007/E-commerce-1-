@@ -11,7 +11,7 @@ const Cart = () => {
     {
       id: 1,
       name: "Essential Hoodie",
-      image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/736x/90/a2/cc/90a2cce4a4d7f5fdda436bdfe1bec336.jpg",
       price: 89,
       quantity: 1,
       size: "M",
@@ -20,7 +20,7 @@ const Cart = () => {
     {
       id: 2,
       name: "Vintage Crew",
-      image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+      image: "https://i.pinimg.com/1200x/5f/3f/c2/5f3fc2e8f5f3b6106be2ac23708dfa86.jpg",
       price: 75,
       quantity: 2,
       size: "L",
